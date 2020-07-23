@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="R & M Group Website.css" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+
+<body>
+
+<div ng-app="myApp" ng-controller="myCtrl">
+
+    <img src="https://rosemont.vn/uploads/images/cropped_eWWkkTD5fpswJb0tGpEOVComUVHgysJIoxKrhHG5.jpeg">
+    <h1 ng-click="changename()">{{firstname}}</h1>
+</div>
+<script>
+    var app=angular.module('myApp',[]);
+    app.controller('myCtrl',function($scope){
+        $scope.firstname="R & M Group";
+       $scope.changename=function(){
+           $scope.firstname="Connecting Future";
+       }
+
+    });
+
+</script>
+
+
+        <div class="mySlides">
+            <p class="quote2">Connect your future</p></div>
+            <div class="mySlides">
+        <p class="quote3">Build your dreams</p>
+
+</div>
+
+<div ng-app="" >
+
+    <img class="image1" src="https://files.123freevectors.com/wp-content/original/111534-light-color-blurred-background-vector.jpg">
+    <h3>About Us</h3>
+    <p class="text1">A small team transformed from student life into a corporate culture and want to help the students who are in need of Jobs.</p>
+    <h4>Responsibilities</h4>
+    <p class="text2">JOB POSTINGS</p>
+    <p class="text3">All the Job openings will be advertised<br> in our website making easy for all the</br>  candidates to find the desired position. </p>
+    <p class="text4">CV CHECK</p>
+    <p class="text5">The received CV's will be verified<br> thoroughly to the available positions and</br> come into contact with the candidate.</p>
+    <p class="text6">-----------------------------------------------------</p>
+    <p class="text7">INTERVIEW SCHEDULED</p>
+    <p class="text8">One of our consulting team will schedule<br> an Interview to learn more about the</br>  candidate and compare their skills  to all<br> the job offers.</br></P>
+    <p class="text9">-----------------------------------------------------</p>
+    <p class="text10">CONNECTING WITH OUR PARTNER</p>
+    <p class="text11">After the interview, we will connect you<br> with the corresponding client company by</br> forwading your CV to them. </p>
+</div>
+
+
+</body>
+</html>
