@@ -1,0 +1,167 @@
+h1{
+
+    font-size:46px;
+    color:purple;
+    margin:80px 40px;
+    position: absolute;
+    top: 8px;
+    left: 16px;
+
+}
+
+li{
+    list-style-type: none;
+}
+.image1{
+    margin:30px 0px;
+    height:50%;
+}
+h3{
+    color:red;
+    font-size: 32px;
+    font-family: Georgia;
+    position: absolute;
+    margin:-100px 530px;
+
+    bottom: 8px;
+    left:16px;
+
+}
+h4{
+    color:red;
+    font-size: 32px;
+    font-family: Georgia;
+    position: absolute;
+    margin:-220px 510px;
+    bottom: 8px;
+    left:16px;
+}
+.text1{
+
+    float: left;
+    color: brown;
+    font-size: large;
+    position: absolute;
+    margin:-150px 180px;
+    bottom: 8px;
+    left: 16px;
+
+}
+.text2{
+    float: left;
+    color: purple;
+    font-size: large;
+    position: absolute;
+    margin:-280px 360px;
+    bottom: 8px;
+    left: 16px;
+}
+.text3{
+    float: left;
+    color: brown;
+    font-size: large;
+    position: absolute;
+    margin:-360px 300px;
+    bottom: 8px;
+    left: 16px;
+}
+
+.text4{
+    float: right;
+    color: purple;
+    font-size: large;
+    position: absolute;
+    margin:-280px 370px;
+    bottom: 8px;
+    right: 16px;
+}
+.text5{
+    float: right;
+    color: brown;
+    text-align: justify;
+    font-size: large;
+    position: absolute;
+    margin:-360px 250px;
+    bottom: 8px;
+    right: 16px;
+}
+.text6{
+    float: left;
+    color: brown;
+    text-align: justify;
+    font-size: large;
+    position: absolute;
+    margin:-420px 290px;
+    bottom: 8px;
+    left: 16px;
+}
+.text7{
+    float: left;
+    color: purple;
+    text-align: justify;
+    font-size: large;
+    position: absolute;
+    margin:-470px 330px;
+    bottom: 8px;
+    left: 16px;
+}
+
+.text8{
+    float: left;
+    color: brown;
+    text-align: justify;
+    font-size: large;
+    position: absolute;
+    margin:-570px 300px;
+    bottom: 8px;
+    left: 16px;
+}
+.text9{
+    float: left;
+    color: brown;
+    text-align: justify;
+    font-size: large;
+    position: absolute;
+    margin:-420px 230px;
+    bottom: 8px;
+    right: 16px;
+}
+.text10{
+    float: left;
+    color: purple;
+    text-align: justify;
+    font-size: large;
+    position: absolute;
+    margin:-470px 250px;
+    bottom: 8px;
+    right: 16px;
+}
+.text11{
+    float: left;
+    color: brown;
+    text-align: justify;
+    font-size: large;
+    position: absolute;
+    margin:-550px 240px;
+    bottom: 8px;
+    right: 16px;
+}
+
+.quote2{
+    font-size:34px;
+    color:brown;
+    margin:170px 100px;
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+.quote3{
+    font-size:26px;
+    color:darkgreen;
+    margin:250px 200px;
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+
